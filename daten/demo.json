@@ -1,0 +1,7079 @@
+{
+ "events": [
+  {
+   "datum": "2025-01-04",
+   "id": "e207",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "c04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-01-05",
+   "id": "e091",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "g06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-01-10",
+   "id": "e061",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "g03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-01-10",
+   "id": "e071",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-01-15",
+   "id": "e200",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-01-16",
+   "id": "e052",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-01-17",
+   "id": "e044",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-01-17",
+   "id": "e177",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g15",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-01-17",
+   "id": "e227",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "l06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-01-18",
+   "id": "e130",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "g10",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-01-21",
+   "id": "e003",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "m02",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-01-23",
+   "id": "e110",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g08",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-01-24",
+   "id": "e081",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-02-03",
+   "id": "e139",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g11",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-02-11",
+   "id": "e149",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g12",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-02-11",
+   "id": "e231",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "i01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-02-15",
+   "id": "e120",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g09",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-02-20",
+   "id": "e031",
+   "modus": "praesenz",
+   "ort": "Frankfurt",
+   "quelle": "checkin",
+   "ref": "m12",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-02-23",
+   "id": "e082",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-02-24",
+   "id": "e062",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-03-09",
+   "id": "e208",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-03-13",
+   "id": "e007",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "m04",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-03-15",
+   "id": "e101",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g07",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-03-17",
+   "id": "e140",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g11",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-03-17",
+   "id": "e150",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g12",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-03-20",
+   "id": "e053",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "g02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-03-20",
+   "id": "e159",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "g13",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-03-25",
+   "id": "e009",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "m05",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-03-25",
+   "id": "e083",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-03-27",
+   "id": "e019",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "checkin",
+   "ref": "m07",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-04-06",
+   "id": "e141",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g11",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-04-09",
+   "id": "e160",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g13",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-04-10",
+   "id": "e033",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "m13",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-04-11",
+   "id": "e072",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-04-16",
+   "id": "e237",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "x01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-04-24",
+   "id": "e111",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g08",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-04-26",
+   "id": "e102",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g07",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-05-02",
+   "id": "e186",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-05-04",
+   "id": "e193",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-05-08",
+   "id": "e209",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-05-11",
+   "id": "e063",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-05-15",
+   "id": "e016",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "m06",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-05-18",
+   "id": "e045",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "g01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-05-18",
+   "id": "e228",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "l06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-05-21",
+   "id": "e131",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g10",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-05-24",
+   "id": "e121",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g09",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-06-02",
+   "id": "e151",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g12",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-06-03",
+   "id": "e103",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g07",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-06-07",
+   "id": "e168",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "g14",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-06-08",
+   "id": "e132",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g10",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-06-16",
+   "id": "e092",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-06-17",
+   "id": "e010",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "m05",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-06-19",
+   "id": "e064",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-06-22",
+   "id": "e161",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g13",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-06-24",
+   "id": "e001",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "checkin",
+   "ref": "m01",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-06-24",
+   "id": "e112",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g08",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-02",
+   "id": "e194",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "c02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-03",
+   "id": "e005",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "m03",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-07-07",
+   "id": "e152",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g12",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-13",
+   "id": "e046",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-14",
+   "id": "e065",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-14",
+   "id": "e178",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g15",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-19",
+   "id": "e122",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g09",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-19",
+   "id": "e232",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "i01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-21",
+   "id": "e104",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "g07",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-21",
+   "id": "e169",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g14",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-22",
+   "id": "e187",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "c01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-22",
+   "id": "e238",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "x01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-24",
+   "id": "e223",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "l05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-26",
+   "id": "e093",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-26",
+   "id": "e113",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g08",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-07-26",
+   "id": "e162",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g13",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-08-04",
+   "id": "e201",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-08-06",
+   "id": "e054",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-08-09",
+   "id": "e073",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-08-13",
+   "id": "e188",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-08-18",
+   "id": "e170",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g14",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-08-18",
+   "id": "e219",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "l04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-08-18",
+   "id": "e233",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "i01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-08-21",
+   "id": "e084",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "g05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-08-24",
+   "id": "e195",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-09-03",
+   "id": "e224",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "l05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-09-06",
+   "id": "e074",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-09-10",
+   "id": "e105",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g07",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-09-11",
+   "id": "e171",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g14",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-09-11",
+   "id": "e202",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-09-16",
+   "id": "e094",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-09-16",
+   "id": "e123",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g09",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-09-17",
+   "id": "e023",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "swapcard",
+   "ref": "m08",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-09-17",
+   "id": "e027",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "swapcard",
+   "ref": "m10",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-09-18",
+   "id": "e025",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "m09",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-09-18",
+   "id": "e029",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "swapcard",
+   "ref": "m11",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-09-19",
+   "id": "e239",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "x01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-09-22",
+   "id": "e179",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "g15",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-09-26",
+   "id": "e163",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g13",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-09-30",
+   "id": "e011",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "m05",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-10-06",
+   "id": "e180",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g15",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-10-08",
+   "id": "e055",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-10-09",
+   "id": "e020",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "checkin",
+   "ref": "m07",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-10-18",
+   "id": "e047",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-10-18",
+   "id": "e075",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "g04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-10-18",
+   "id": "e095",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-10-18",
+   "id": "e203",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "c03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-10-19",
+   "id": "e114",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "g08",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-10-24",
+   "id": "e085",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-10-24",
+   "id": "e142",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "g11",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-11-02",
+   "id": "e056",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-11-06",
+   "id": "e017",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "m06",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-11-08",
+   "id": "e220",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "l04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-11-11",
+   "id": "e048",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-11-13",
+   "id": "e035",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "checkin",
+   "ref": "m14",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-11-13",
+   "id": "e133",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g10",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-11-15",
+   "id": "e189",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-11-16",
+   "id": "e240",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "x01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-11-21",
+   "id": "e210",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-12-02",
+   "id": "e012",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "m05",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2025-12-02",
+   "id": "e172",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g14",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-12-03",
+   "id": "e153",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "g12",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-12-08",
+   "id": "e134",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g10",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-12-22",
+   "id": "e124",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "g09",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-12-23",
+   "id": "e196",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-12-26",
+   "id": "e143",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g11",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2025-12-26",
+   "id": "e181",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g15",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-01-06",
+   "id": "e211",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-01-08",
+   "id": "e154",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g12",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-01-09",
+   "id": "e229",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "l06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-01-11",
+   "id": "e221",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "l04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-01-18",
+   "id": "e086",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "g05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-01-20",
+   "id": "e004",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "m02",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-01-25",
+   "id": "e115",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "g08",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-02-02",
+   "id": "e173",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g14",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-02-03",
+   "id": "e241",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "x01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-02-11",
+   "id": "e164",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g13",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-02-13",
+   "id": "e144",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g11",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-02-15",
+   "id": "e135",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g10",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-02-18",
+   "id": "e116",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g08",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-02-19",
+   "id": "e032",
+   "modus": "praesenz",
+   "ort": "Frankfurt",
+   "quelle": "checkin",
+   "ref": "m12",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-02-23",
+   "id": "e182",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g15",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-02-26",
+   "id": "e057",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-03-02",
+   "id": "e058",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-03-03",
+   "id": "e204",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-03-04",
+   "id": "e036",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "m15",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-03-05",
+   "id": "e165",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g13",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-03-12",
+   "id": "e008",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "m04",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-03-12",
+   "id": "e125",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "g09",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-03-13",
+   "id": "e145",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "g11",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-03-14",
+   "id": "e234",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "i01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-03-17",
+   "id": "e230",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "l06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-03-19",
+   "id": "e066",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-03-19",
+   "id": "e242",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "x01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-03-21",
+   "id": "e087",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-03-24",
+   "id": "e013",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "m05",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-03-25",
+   "id": "e049",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-03-26",
+   "id": "e021",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "checkin",
+   "ref": "m07",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-04-01",
+   "id": "e037",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "m15",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-04-03",
+   "id": "e088",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-04-06",
+   "id": "e106",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g07",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-04-07",
+   "id": "e126",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g09",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-04-07",
+   "id": "e136",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "g10",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-04-07",
+   "id": "e217",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "l03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-04-08",
+   "id": "e117",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g08",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-04-08",
+   "id": "e235",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "i01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-04-12",
+   "id": "e174",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g14",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-04-15",
+   "id": "e146",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g11",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-04-16",
+   "id": "e034",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "m13",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-04-19",
+   "id": "e212",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "c04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-04-21",
+   "id": "e197",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "c02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-04-22",
+   "id": "e183",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "g15",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-04-24",
+   "id": "e067",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-04-24",
+   "id": "e076",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-05-02",
+   "id": "e038",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "m15",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-05-04",
+   "id": "e222",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "l04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-05-05",
+   "id": "e077",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "g04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-05-06",
+   "id": "e198",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-05-08",
+   "id": "e096",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-05-08",
+   "id": "e184",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g15",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-05-14",
+   "id": "e018",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "m06",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-05-14",
+   "id": "e137",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g10",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-05-22",
+   "id": "e225",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "l05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-05-23",
+   "id": "e118",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g08",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-06-02",
+   "id": "e127",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g09",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-06-02",
+   "id": "e215",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "l02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-06-03",
+   "id": "e039",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "m15",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-06-12",
+   "id": "e078",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-06-14",
+   "id": "e214",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "l01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-06-16",
+   "id": "e014",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "m05",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-06-16",
+   "id": "e059",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-06-18",
+   "id": "e002",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "checkin",
+   "ref": "m01",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-06-21",
+   "id": "e205",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-06-23",
+   "id": "e089",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-06-23",
+   "id": "e190",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-06-24",
+   "id": "e068",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-07-02",
+   "id": "e006",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "m03",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-07-04",
+   "id": "e040",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "m15",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-07-05",
+   "id": "e128",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g09",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-07-05",
+   "id": "e216",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "l02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-07-07",
+   "id": "e155",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "g12",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-07-09",
+   "id": "e079",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-07-14",
+   "id": "e069",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "g03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-07-14",
+   "id": "e185",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g15",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-07-17",
+   "id": "e147",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g11",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-07-21",
+   "id": "e050",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-07-21",
+   "id": "e107",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "g07",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-07-22",
+   "id": "e226",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "l05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-07-26",
+   "id": "e097",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-08-01",
+   "id": "e041",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "m15",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-08-04",
+   "id": "e148",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g11",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-08-07",
+   "id": "e138",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g10",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-08-08",
+   "id": "e156",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g12",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-08-10",
+   "id": "e108",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g07",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-08-13",
+   "id": "e243",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "x01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-08-16",
+   "id": "e129",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g09",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-08-17",
+   "id": "e070",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-08-24",
+   "id": "e051",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-08-25",
+   "id": "e098",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-09-02",
+   "id": "e042",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "m15",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-09-03",
+   "id": "e191",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "c01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-09-03",
+   "id": "e236",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "i01",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-09-05",
+   "id": "e080",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-09-06",
+   "id": "e218",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "l03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-09-07",
+   "id": "e099",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-09-08",
+   "id": "e157",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g12",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-09-09",
+   "id": "e213",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c04",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-09-14",
+   "id": "e166",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g13",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-09-14",
+   "id": "e199",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-09-17",
+   "id": "e206",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "liste",
+   "ref": "c03",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-09-19",
+   "id": "e109",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g07",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-09-19",
+   "id": "e175",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g14",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-09-23",
+   "id": "e024",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "swapcard",
+   "ref": "m08",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-09-23",
+   "id": "e028",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "swapcard",
+   "ref": "m10",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-09-24",
+   "id": "e026",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "m09",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-09-24",
+   "id": "e030",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "swapcard",
+   "ref": "m11",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-09-29",
+   "id": "e015",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "m05",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-10-02",
+   "id": "e060",
+   "modus": "praesenz",
+   "ort": "Berlin",
+   "quelle": "liste",
+   "ref": "g02",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-10-03",
+   "id": "e043",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "m15",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-10-05",
+   "id": "e100",
+   "modus": "praesenz",
+   "ort": "Hamburg",
+   "quelle": "liste",
+   "ref": "g06",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-10-06",
+   "id": "e176",
+   "modus": "praesenz",
+   "ort": "Köln",
+   "quelle": "liste",
+   "ref": "g14",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-10-08",
+   "id": "e022",
+   "modus": "praesenz",
+   "ort": "Düsseldorf",
+   "quelle": "checkin",
+   "ref": "m07",
+   "reftyp": "format"
+  },
+  {
+   "datum": "2026-10-09",
+   "id": "e090",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g05",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-10-11",
+   "id": "e158",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g12",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-10-18",
+   "id": "e119",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g08",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-10-18",
+   "id": "e167",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "g13",
+   "reftyp": "gremium"
+  },
+  {
+   "datum": "2026-10-25",
+   "id": "e192",
+   "modus": "online",
+   "ort": "online",
+   "quelle": "teams",
+   "ref": "c01",
+   "reftyp": "gremium"
+  }
+ ],
+ "firmen": [
+  {
+   "ausgetreten": null,
+   "branche": "konzern",
+   "branche_label": "Werbungtreibender Konzern",
+   "demo": true,
+   "domain": "nordlicht-telco.example",
+   "id": "f01",
+   "kategorie": "Werbungtreibende",
+   "mitglied_seit": 2012,
+   "name": "Nordlicht Telco AG",
+   "stadt": "Hamburg",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "agentur_fullservice",
+   "branche_label": "Full-Service-Digitalagentur",
+   "demo": true,
+   "domain": "elbwerk-digital.example",
+   "id": "f02",
+   "kategorie": "Agenturen",
+   "mitglied_seit": 2016,
+   "name": "Elbwerk Digital GmbH",
+   "stadt": "Hamburg",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "adtech",
+   "branche_label": "AdTech",
+   "demo": true,
+   "domain": "kupferdraht-analytics.example",
+   "id": "f03",
+   "kategorie": "Technologie",
+   "mitglied_seit": null,
+   "name": "Kupferdraht Analytics GmbH",
+   "stadt": "Berlin",
+   "status": "lead"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "haendler",
+   "branche_label": "Händler und Retail Media",
+   "demo": true,
+   "domain": "alsterbyte-commerce.example",
+   "id": "f04",
+   "kategorie": "Handel",
+   "mitglied_seit": 2026,
+   "name": "Alsterbyte Commerce SE",
+   "stadt": "Hamburg",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "agentur_kreativ",
+   "branche_label": "Kreativagentur",
+   "demo": true,
+   "domain": "hafenpixel-studios.example",
+   "id": "f05",
+   "kategorie": "Agenturen",
+   "mitglied_seit": 2019,
+   "name": "Hafenpixel Studios GmbH",
+   "stadt": "Hamburg",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "agentur_media",
+   "branche_label": "Mediaagentur",
+   "demo": true,
+   "domain": "fahrtwind-media.example",
+   "id": "f06",
+   "kategorie": "Agenturen",
+   "mitglied_seit": 2014,
+   "name": "Fahrtwind Media GmbH",
+   "stadt": "Düsseldorf",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "publisher",
+   "branche_label": "Publisher",
+   "demo": true,
+   "domain": "spreekanal-publishing.example",
+   "id": "f07",
+   "kategorie": "Medien und Vermarktung",
+   "mitglied_seit": 2010,
+   "name": "Spreekanal Publishing GmbH",
+   "stadt": "Berlin",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "vermarkter",
+   "branche_label": "Vermarkter",
+   "demo": true,
+   "domain": "rheinblick-vermarktung.example",
+   "id": "f08",
+   "kategorie": "Medien und Vermarktung",
+   "mitglied_seit": 2011,
+   "name": "Rheinblick Vermarktung GmbH",
+   "stadt": "Köln",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "agentur_performance",
+   "branche_label": "Performance-Agentur",
+   "demo": true,
+   "domain": "isarflow-performance.example",
+   "id": "f09",
+   "kategorie": "Agenturen",
+   "mitglied_seit": 2020,
+   "name": "Isarflow Performance GmbH",
+   "stadt": "München",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "haendler",
+   "branche_label": "Händler und Retail Media",
+   "demo": true,
+   "domain": "weserbogen-retail.example",
+   "id": "f10",
+   "kategorie": "Handel",
+   "mitglied_seit": 2023,
+   "name": "Weserbogen Retail GmbH",
+   "stadt": "Bremen",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "beratung",
+   "branche_label": "Beratung",
+   "demo": true,
+   "domain": "tannenhof-consulting.example",
+   "id": "f11",
+   "kategorie": "Beratung und Recht",
+   "mitglied_seit": 2018,
+   "name": "Tannenhof Consulting GmbH",
+   "stadt": "Frankfurt",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "audio",
+   "branche_label": "Audio-Anbieter",
+   "demo": true,
+   "domain": "duenenfunk-audio.example",
+   "id": "f12",
+   "kategorie": "Medien und Vermarktung",
+   "mitglied_seit": 2021,
+   "name": "Dünenfunk Audio GmbH",
+   "stadt": "Hamburg",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "adtech",
+   "branche_label": "AdTech",
+   "demo": true,
+   "domain": "mainwelle-programmatic.example",
+   "id": "f13",
+   "kategorie": "Technologie",
+   "mitglied_seit": 2017,
+   "name": "Mainwelle Programmatic GmbH",
+   "stadt": "Frankfurt",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "martech",
+   "branche_label": "MarTech",
+   "demo": true,
+   "domain": "kieler-foerde-data.example",
+   "id": "f14",
+   "kategorie": "Technologie",
+   "mitglied_seit": 2022,
+   "name": "Kieler Förde Data GmbH",
+   "stadt": "Kiel",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "agentur_fullservice",
+   "branche_label": "Full-Service-Digitalagentur",
+   "demo": true,
+   "domain": "neckarlichtentur.example",
+   "id": "f15",
+   "kategorie": "Agenturen",
+   "mitglied_seit": 2015,
+   "name": "Neckarlicht Agentur GmbH",
+   "stadt": "Stuttgart",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "recht",
+   "branche_label": "Kanzlei",
+   "demo": true,
+   "domain": "steinwerk.example",
+   "id": "f16",
+   "kategorie": "Beratung und Recht",
+   "mitglied_seit": 2019,
+   "name": "Steinwerk Rechtsanwälte PartG mbB",
+   "stadt": "Berlin",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "haendler",
+   "branche_label": "Händler und Retail Media",
+   "demo": true,
+   "domain": "ostwind-commerce.example",
+   "id": "f17",
+   "kategorie": "Handel",
+   "mitglied_seit": null,
+   "name": "Ostwind Commerce GmbH",
+   "stadt": "Leipzig",
+   "status": "lead"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "agentur_performance",
+   "branche_label": "Performance-Agentur",
+   "demo": true,
+   "domain": "sandbankarch.example",
+   "id": "f18",
+   "kategorie": "Agenturen",
+   "mitglied_seit": 2013,
+   "name": "Sandbank Search GmbH",
+   "stadt": "Hannover",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "vermarkter",
+   "branche_label": "Vermarkter",
+   "demo": true,
+   "domain": "moorland-video-network.example",
+   "id": "f19",
+   "kategorie": "Medien und Vermarktung",
+   "mitglied_seit": 2016,
+   "name": "Moorland Video Network GmbH",
+   "stadt": "Köln",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "martech",
+   "branche_label": "MarTech",
+   "demo": true,
+   "domain": "polarstern-mail-solutions.example",
+   "id": "f20",
+   "kategorie": "Technologie",
+   "mitglied_seit": 2018,
+   "name": "Polarstern Mail Solutions GmbH",
+   "stadt": "München",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "adtech",
+   "branche_label": "AdTech",
+   "demo": true,
+   "domain": "wattenmeer-affiliate.example",
+   "id": "f21",
+   "kategorie": "Technologie",
+   "mitglied_seit": 2015,
+   "name": "Wattenmeer Affiliate GmbH",
+   "stadt": "Hamburg",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": "2025-12-31",
+   "branche": "agentur_fullservice",
+   "branche_label": "Full-Service-Digitalagentur",
+   "demo": true,
+   "domain": "brueckenschlag-digital.example",
+   "id": "f22",
+   "kategorie": "Agenturen",
+   "mitglied_seit": 2013,
+   "name": "Brückenschlag Digital GmbH",
+   "stadt": "Düsseldorf",
+   "status": "ehemalig"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "agentur_kreativ",
+   "branche_label": "Kreativagentur",
+   "demo": true,
+   "domain": "leuchtturm-creators.example",
+   "id": "f23",
+   "kategorie": "Agenturen",
+   "mitglied_seit": 2024,
+   "name": "Leuchtturm Creators GmbH",
+   "stadt": "Berlin",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "konzern",
+   "branche_label": "Werbungtreibender Konzern",
+   "demo": true,
+   "domain": "granitstadt-konzern.example",
+   "id": "f24",
+   "kategorie": "Werbungtreibende",
+   "mitglied_seit": 2009,
+   "name": "Granitstadt Konzern AG",
+   "stadt": "Stuttgart",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "konzern",
+   "branche_label": "Werbungtreibender Konzern",
+   "demo": true,
+   "domain": "heidekraut-mobility.example",
+   "id": "f25",
+   "kategorie": "Werbungtreibende",
+   "mitglied_seit": null,
+   "name": "Heidekraut Mobility SE",
+   "stadt": "Hannover",
+   "status": "lead"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "agentur_media",
+   "branche_label": "Mediaagentur",
+   "demo": true,
+   "domain": "birkenallee-media.example",
+   "id": "f26",
+   "kategorie": "Agenturen",
+   "mitglied_seit": 2012,
+   "name": "Birkenallee Media GmbH",
+   "stadt": "Hamburg",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "haendler",
+   "branche_label": "Händler und Retail Media",
+   "demo": true,
+   "domain": "quellwasser-retail-media.example",
+   "id": "f27",
+   "kategorie": "Handel",
+   "mitglied_seit": 2024,
+   "name": "Quellwasser Retail Media GmbH",
+   "stadt": "Köln",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": "2025-06-30",
+   "branche": "martech",
+   "branche_label": "MarTech",
+   "demo": true,
+   "domain": "zugspitz-software.example",
+   "id": "f28",
+   "kategorie": "Technologie",
+   "mitglied_seit": 2016,
+   "name": "Zugspitz Software GmbH",
+   "stadt": "München",
+   "status": "ehemalig"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "adtech",
+   "branche_label": "AdTech",
+   "demo": true,
+   "domain": "nebelbank-adtech.example",
+   "id": "f29",
+   "kategorie": "Technologie",
+   "mitglied_seit": 2021,
+   "name": "Nebelbank AdTech GmbH",
+   "stadt": "Berlin",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "audio",
+   "branche_label": "Audio-Anbieter",
+   "demo": true,
+   "domain": "fjordlicht-audio.example",
+   "id": "f30",
+   "kategorie": "Medien und Vermarktung",
+   "mitglied_seit": null,
+   "name": "Fjordlicht Audio GmbH",
+   "stadt": "Kiel",
+   "status": "lead"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "agentur_fullservice",
+   "branche_label": "Full-Service-Digitalagentur",
+   "demo": true,
+   "domain": "kreidefelsen-digital.example",
+   "id": "f31",
+   "kategorie": "Agenturen",
+   "mitglied_seit": 2017,
+   "name": "Kreidefelsen Digital GmbH",
+   "stadt": "Rostock",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": "2025-09-30",
+   "branche": "publisher",
+   "branche_label": "Publisher",
+   "demo": true,
+   "domain": "taubenschlag-publishing.example",
+   "id": "f32",
+   "kategorie": "Medien und Vermarktung",
+   "mitglied_seit": 2011,
+   "name": "Taubenschlag Publishing GmbH",
+   "stadt": "Köln",
+   "status": "ehemalig"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "agentur_kreativ",
+   "branche_label": "Kreativagentur",
+   "demo": true,
+   "domain": "schlossgartenentur.example",
+   "id": "f33",
+   "kategorie": "Agenturen",
+   "mitglied_seit": 2020,
+   "name": "Schlossgarten Agentur GmbH",
+   "stadt": "Stuttgart",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "beratung",
+   "branche_label": "Beratung",
+   "demo": true,
+   "domain": "hochufer-research.example",
+   "id": "f34",
+   "kategorie": "Beratung und Recht",
+   "mitglied_seit": 2016,
+   "name": "Hochufer Research GmbH",
+   "stadt": "Berlin",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "adtech",
+   "branche_label": "AdTech",
+   "demo": true,
+   "domain": "bernstein-programmatic.example",
+   "id": "f35",
+   "kategorie": "Technologie",
+   "mitglied_seit": 2019,
+   "name": "Bernstein Programmatic GmbH",
+   "stadt": "Hamburg",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "haendler",
+   "branche_label": "Händler und Retail Media",
+   "demo": true,
+   "domain": "ebbe-flut-commerce.example",
+   "id": "f36",
+   "kategorie": "Handel",
+   "mitglied_seit": null,
+   "name": "Ebbe und Flut Commerce GmbH",
+   "stadt": "Bremen",
+   "status": "lead"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "konzern",
+   "branche_label": "Werbungtreibender Konzern",
+   "demo": true,
+   "domain": "lindenhof-versicherung.example",
+   "id": "f37",
+   "kategorie": "Werbungtreibende",
+   "mitglied_seit": 2014,
+   "name": "Lindenhof Versicherung AG",
+   "stadt": "Hannover",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "startup",
+   "branche_label": "Start-up",
+   "demo": true,
+   "domain": "sternschnuppe-labs.example",
+   "id": "f38",
+   "kategorie": "Start-ups",
+   "mitglied_seit": 2025,
+   "name": "Sternschnuppe Labs GmbH",
+   "stadt": "Berlin",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": "2025-03-31",
+   "branche": "agentur_media",
+   "branche_label": "Mediaagentur",
+   "demo": true,
+   "domain": "deichgraf-media.example",
+   "id": "f39",
+   "kategorie": "Agenturen",
+   "mitglied_seit": 2010,
+   "name": "Deichgraf Media GmbH",
+   "stadt": "Hamburg",
+   "status": "ehemalig"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "vermarkter",
+   "branche_label": "Vermarkter",
+   "demo": true,
+   "domain": "marschland-video.example",
+   "id": "f40",
+   "kategorie": "Medien und Vermarktung",
+   "mitglied_seit": 2022,
+   "name": "Marschland Video GmbH",
+   "stadt": "Hamburg",
+   "status": "mitglied"
+  },
+  {
+   "ausgetreten": null,
+   "branche": "einzel",
+   "branche_label": "Einzelunternehmer, nur gebündelt",
+   "demo": true,
+   "domain": "",
+   "id": "f99",
+   "kategorie": "Einzelunternehmer",
+   "mitglied_seit": null,
+   "name": "Einzelunternehmer (gebündelt)",
+   "sammel": true,
+   "stadt": "",
+   "status": "gemischt"
+  }
+ ],
+ "formate": [
+  {
+   "id": "m01",
+   "kurz": "Convention",
+   "name": "BVDW Convention",
+   "rhythmus": "jaehrlich",
+   "typ": "konferenz"
+  },
+  {
+   "id": "m02",
+   "kurz": "Neujahrsempfang",
+   "name": "BVDW Neujahrsempfang",
+   "rhythmus": "jaehrlich",
+   "typ": "konferenz"
+  },
+  {
+   "id": "m03",
+   "kurz": "MV und Sommerfest",
+   "name": "Mitgliederversammlung und Sommerfest",
+   "rhythmus": "jaehrlich",
+   "typ": "konferenz"
+  },
+  {
+   "id": "m04",
+   "kurz": "Future Days",
+   "name": "BVDW Future Days",
+   "rhythmus": "jaehrlich",
+   "typ": "online"
+  },
+  {
+   "gremium": "g12",
+   "id": "m05",
+   "kurz": "KI Meet-Up",
+   "name": "KI Meet-Up",
+   "rhythmus": "quartal",
+   "typ": "meetup"
+  },
+  {
+   "gremium": "g04",
+   "id": "m06",
+   "kurz": "Audio Meet-Up",
+   "name": "Digital Audio Meet-Up",
+   "rhythmus": "halbjahr",
+   "typ": "meetup"
+  },
+  {
+   "gremium": "c04",
+   "id": "m07",
+   "kurz": "Retail Media Festival",
+   "name": "Retail Media Festival",
+   "rhythmus": "halbjahr",
+   "typ": "meetup"
+  },
+  {
+   "id": "m08",
+   "kurz": "Masterclasses",
+   "name": "BVDW Masterclasses auf der DMEXCO",
+   "rhythmus": "jaehrlich",
+   "typ": "dmexco"
+  },
+  {
+   "id": "m09",
+   "kurz": "Learning Journeys",
+   "name": "Learning Journeys auf der DMEXCO",
+   "rhythmus": "jaehrlich",
+   "typ": "dmexco"
+  },
+  {
+   "gremium": "g14",
+   "id": "m10",
+   "kurz": "Retail & Commerce Media Summit",
+   "name": "Retail & Commerce Media Summit",
+   "rhythmus": "jaehrlich",
+   "typ": "dmexco"
+  },
+  {
+   "gremium": "g11",
+   "id": "m11",
+   "kurz": "Creativity Summit",
+   "name": "Creativity Summit",
+   "rhythmus": "jaehrlich",
+   "typ": "dmexco"
+  },
+  {
+   "gremium": "c03",
+   "id": "m12",
+   "kurz": "Online Ad Summit",
+   "name": "Online Ad Summit",
+   "rhythmus": "jaehrlich",
+   "typ": "konferenz"
+  },
+  {
+   "gremium": "g11",
+   "id": "m13",
+   "kurz": "Deutscher Digital Award",
+   "name": "Deutscher Digital Award",
+   "rhythmus": "jaehrlich",
+   "typ": "award"
+  },
+  {
+   "gremium": "g09",
+   "id": "m14",
+   "kurz": "DATA matters",
+   "name": "DATA matters",
+   "rhythmus": "jaehrlich",
+   "typ": "konferenz"
+  },
+  {
+   "gremium": "g12",
+   "id": "m15",
+   "kurz": "AI Office Hours",
+   "name": "AI Office Hours",
+   "rhythmus": "monatlich",
+   "typ": "online"
+  }
+ ],
+ "fragen": [
+  {
+   "frage": "Welche Formate hat die Firma 2026 besucht?",
+   "id": "q1",
+   "typ": "formate_jahr"
+  },
+  {
+   "frage": "Wo fehlt sie seit einem Jahr?",
+   "id": "q2",
+   "typ": "fehlt_seit"
+  },
+  {
+   "frage": "Welche Gremien passen zur Branche?",
+   "id": "q3",
+   "typ": "gremien_passend"
+  }
+ ],
+ "gremien": [
+  {
+   "id": "g01",
+   "kurz": "Affiliate Marketing",
+   "name": "Working Group Affiliate Marketing",
+   "slug": "affiliate-marketing",
+   "typ": "working_group"
+  },
+  {
+   "id": "g02",
+   "kurz": "Content Creation & Influencer",
+   "name": "Working Group Content Creation & Influencer Marketing",
+   "slug": "content-creation-influencer-marketing",
+   "typ": "working_group"
+  },
+  {
+   "id": "g03",
+   "kurz": "Data Tech & Economy",
+   "name": "Working Group Data Tech & Economy",
+   "slug": "data-tech-and-economy",
+   "typ": "working_group"
+  },
+  {
+   "id": "g04",
+   "kurz": "Digital Audio",
+   "name": "Working Group Digital Audio",
+   "slug": "digital-audio",
+   "typ": "working_group"
+  },
+  {
+   "id": "g05",
+   "kurz": "Digital Quality",
+   "name": "Working Group Digital Quality",
+   "slug": "digital-quality",
+   "typ": "working_group"
+  },
+  {
+   "id": "g06",
+   "kurz": "Digital Responsibility",
+   "name": "Working Group Digital Responsibility",
+   "slug": "digital-responsibility",
+   "typ": "working_group"
+  },
+  {
+   "id": "g07",
+   "kurz": "Digital Video",
+   "name": "Working Group Digital Video",
+   "slug": "digital-video",
+   "typ": "working_group"
+  },
+  {
+   "id": "g08",
+   "kurz": "Digitale Arbeitswelten",
+   "name": "Working Group Digitale Arbeitswelten",
+   "slug": "digitale-arbeitswelten",
+   "typ": "working_group"
+  },
+  {
+   "id": "g09",
+   "kurz": "Digitalpolitik",
+   "name": "Working Group Digitalpolitik",
+   "slug": "digitalpolitik",
+   "typ": "working_group"
+  },
+  {
+   "id": "g10",
+   "kurz": "E-Mail",
+   "name": "Working Group E-Mail",
+   "slug": "e-mail",
+   "typ": "working_group"
+  },
+  {
+   "id": "g11",
+   "kurz": "Digitalagenturen (FSDA)",
+   "name": "Working Group Die Digitalagenturen im BVDW (FSDA)",
+   "slug": "fsda-full-service-digitalagenturen",
+   "typ": "working_group"
+  },
+  {
+   "id": "g12",
+   "kurz": "Künstliche Intelligenz",
+   "name": "Working Group Künstliche Intelligenz",
+   "slug": "kuenstliche-intelligenz",
+   "typ": "working_group"
+  },
+  {
+   "id": "g13",
+   "kurz": "Programmatic Advertising",
+   "name": "Working Group Programmatic Advertising Ecosystem",
+   "slug": "programmatic-advertising-ecosystem",
+   "typ": "working_group"
+  },
+  {
+   "id": "g14",
+   "kurz": "Retail & Commerce Media",
+   "name": "Working Group Retail & Commerce Media Ecosystem",
+   "slug": "retail-und-commerce-media-ecosystem",
+   "typ": "working_group"
+  },
+  {
+   "id": "g15",
+   "kurz": "Search",
+   "name": "Working Group Search",
+   "slug": "search",
+   "typ": "working_group"
+  },
+  {
+   "id": "c01",
+   "kurz": "APMC",
+   "name": "Affiliate und Partner Marketing Circle (APMC)",
+   "slug": "apmc",
+   "typ": "circle"
+  },
+  {
+   "id": "c02",
+   "kurz": "Mediaagenturen",
+   "name": "Die Mediaagenturen im BVDW",
+   "slug": "die-mediaagenturen-im-bvdw",
+   "typ": "circle"
+  },
+  {
+   "id": "c03",
+   "kurz": "OVK",
+   "name": "Online-Vermarkterkreis (OVK)",
+   "slug": "ovk-online-vermarkter-kreis",
+   "typ": "circle"
+  },
+  {
+   "id": "c04",
+   "kurz": "Retail Media Circle",
+   "name": "Retail Media Circle (RMC)",
+   "slug": "retail-media-circle",
+   "typ": "circle"
+  },
+  {
+   "id": "l01",
+   "kurz": "Lab AI Value Chain",
+   "name": "Lab AI Value Chain",
+   "parent": "g12",
+   "typ": "lab"
+  },
+  {
+   "id": "l02",
+   "kurz": "Lab AI Responsibility",
+   "name": "Lab AI Responsibility",
+   "parent": "g12",
+   "typ": "lab"
+  },
+  {
+   "id": "l03",
+   "kurz": "Lab AI Commerce",
+   "name": "Lab AI Commerce",
+   "parent": "g14",
+   "typ": "lab"
+  },
+  {
+   "id": "l04",
+   "kurz": "Lab Curation",
+   "name": "Lab Curation",
+   "parent": "g13",
+   "typ": "lab"
+  },
+  {
+   "id": "l05",
+   "kurz": "Lab Data Clean Rooms",
+   "name": "Lab Data Clean Rooms",
+   "parent": "g13",
+   "typ": "lab"
+  },
+  {
+   "id": "l06",
+   "kurz": "Lab Next Level Measurement",
+   "name": "Lab Next Level Measurement",
+   "parent": "g13",
+   "typ": "lab"
+  },
+  {
+   "id": "i01",
+   "kurz": "Initiative E-Commerce",
+   "name": "Initiative E-Commerce",
+   "slug": "e-commerce",
+   "typ": "initiative"
+  },
+  {
+   "id": "x01",
+   "kurz": "FIT Expert Group",
+   "name": "FIT Expert Group",
+   "typ": "expert_group"
+  }
+ ],
+ "importe": [
+  {
+   "datei": "checkin_convention_2026-06.csv",
+   "datum": "2026-06-19",
+   "firmen": 61,
+   "format": "m01",
+   "id": "i01",
+   "quelle": "checkin",
+   "spalten": [
+    "E-Mail",
+    "Vorname",
+    "Nachname",
+    "Firma",
+    "Ticket",
+    "Check-in"
+   ],
+   "unsicher": 5,
+   "unzuordenbar": 9,
+   "verworfen_personen": 173,
+   "zeilen": 173
+  },
+  {
+   "datei": "teams_wg-retail-commerce-media_2026-09.csv",
+   "datum": "2026-09-11",
+   "firmen": 18,
+   "gremium": "g14",
+   "id": "i02",
+   "quelle": "teams",
+   "spalten": [
+    "Name",
+    "E-Mail",
+    "Beitritt",
+    "Verlassen",
+    "Dauer",
+    "Rolle"
+   ],
+   "unsicher": 2,
+   "unzuordenbar": 1,
+   "verworfen_personen": 24,
+   "zeilen": 24
+  },
+  {
+   "datei": "swapcard_masterclasses_2026-09.xlsx",
+   "datum": "2026-10-02",
+   "firmen": 412,
+   "format": "m08",
+   "id": "i03",
+   "quelle": "swapcard",
+   "spalten": [
+    "Session",
+    "First name",
+    "Last name",
+    "Email",
+    "Company",
+    "Job title",
+    "Scanned at"
+   ],
+   "unsicher": 37,
+   "unzuordenbar": 96,
+   "verworfen_personen": 1840,
+   "zeilen": 1840
+  },
+  {
+   "datei": "liste_ki-meetup_2026-09.xlsx",
+   "datum": "2026-09-30",
+   "firmen": 41,
+   "format": "m05",
+   "id": "i04",
+   "quelle": "liste",
+   "spalten": [
+    "Vorname",
+    "Unternehmensname",
+    "Anwesend",
+    "Abwesend"
+   ],
+   "unsicher": 3,
+   "unzuordenbar": 2,
+   "verworfen_personen": 64,
+   "zeilen": 64
+  },
+  {
+   "datei": "teams_ai-office-hours_2026-10.csv",
+   "datum": "2026-10-01",
+   "firmen": 22,
+   "format": "m15",
+   "id": "i05",
+   "quelle": "teams",
+   "spalten": [
+    "Name",
+    "E-Mail",
+    "Beitritt",
+    "Verlassen",
+    "Dauer",
+    "Rolle"
+   ],
+   "unsicher": 1,
+   "unzuordenbar": 4,
+   "verworfen_personen": 31,
+   "zeilen": 31
+  }
+ ],
+ "insights": [
+  {
+   "firma": "f01",
+   "konfidenz": 0.74,
+   "text": "5 Mal beim Format AI Office Hours in 12 Monaten, aber nicht im zugehörigen Gremium Künstliche Intelligenz. Einladung durch die Betreuerin anbieten.",
+   "typ": "crosssell"
+  },
+  {
+   "firma": "f02",
+   "konfidenz": 0.78,
+   "text": "Letzte Teilnahme 24.10.2025, seit 12 Monaten still. Davor 8 Event-Instanzen in zwölf Monaten. Verlängerungsgespräch vorziehen.",
+   "typ": "churn"
+  },
+  {
+   "firma": "f03",
+   "konfidenz": 0.8,
+   "text": "Nichtmitglied mit 5 Event-Instanzen in 12 Monaten. Warmer Lead für Membership Services.",
+   "typ": "lead"
+  },
+  {
+   "firma": "f04",
+   "konfidenz": 0.85,
+   "text": "Mitglied seit 2026, schon 8 Event-Instanzen und 2 Gremien. Onboarding läuft, Ansprechpartner stabil halten.",
+   "typ": "neu"
+  },
+  {
+   "firma": "f10",
+   "konfidenz": 0.74,
+   "text": "2 Mal beim Format Retail Media Festival in 12 Monaten, aber nicht im zugehörigen Gremium Retail Media Circle. Einladung durch die Betreuerin anbieten.",
+   "typ": "crosssell"
+  },
+  {
+   "firma": "f12",
+   "konfidenz": 0.74,
+   "text": "2 Mal beim Format Audio Meet-Up in 12 Monaten, aber nicht im zugehörigen Gremium Digital Audio. Einladung durch die Betreuerin anbieten.",
+   "typ": "crosssell"
+  },
+  {
+   "firma": "f13",
+   "konfidenz": 0.74,
+   "text": "2 Mal beim Format KI Meet-Up in 12 Monaten, aber nicht im zugehörigen Gremium Künstliche Intelligenz. Einladung durch die Betreuerin anbieten.",
+   "typ": "crosssell"
+  },
+  {
+   "firma": "f14",
+   "konfidenz": 0.74,
+   "text": "4 Mal beim Format AI Office Hours in 12 Monaten, aber nicht im zugehörigen Gremium Künstliche Intelligenz. Einladung durch die Betreuerin anbieten.",
+   "typ": "crosssell"
+  },
+  {
+   "firma": "f20",
+   "konfidenz": 0.74,
+   "text": "2 Mal beim Format KI Meet-Up in 12 Monaten, aber nicht im zugehörigen Gremium Künstliche Intelligenz. Einladung durch die Betreuerin anbieten.",
+   "typ": "crosssell"
+  },
+  {
+   "firma": "f24",
+   "konfidenz": 0.74,
+   "text": "4 Mal beim Format AI Office Hours in 12 Monaten, aber nicht im zugehörigen Gremium Künstliche Intelligenz. Einladung durch die Betreuerin anbieten.",
+   "typ": "crosssell"
+  },
+  {
+   "firma": "f25",
+   "konfidenz": 0.8,
+   "text": "Nichtmitglied mit 2 Event-Instanzen in 12 Monaten. Warmer Lead für Membership Services.",
+   "typ": "lead"
+  },
+  {
+   "firma": "f31",
+   "konfidenz": 0.78,
+   "text": "Letzte Teilnahme 07.07.2025, seit 15 Monaten still. Davor 4 Event-Instanzen in zwölf Monaten. Verlängerungsgespräch vorziehen.",
+   "typ": "churn"
+  },
+  {
+   "firma": "f33",
+   "konfidenz": 0.78,
+   "text": "Letzte Teilnahme 08.10.2025, seit 12 Monaten still. Davor 4 Event-Instanzen in zwölf Monaten. Verlängerungsgespräch vorziehen.",
+   "typ": "churn"
+  },
+  {
+   "firma": "f35",
+   "konfidenz": 0.74,
+   "text": "2 Mal beim Format KI Meet-Up in 12 Monaten, aber nicht im zugehörigen Gremium Künstliche Intelligenz. Einladung durch die Betreuerin anbieten.",
+   "typ": "crosssell"
+  },
+  {
+   "firma": "f37",
+   "konfidenz": 0.78,
+   "text": "Letzte Teilnahme 03.02.2026, seit 8 Monaten still. Davor 4 Event-Instanzen in zwölf Monaten. Verlängerungsgespräch vorziehen.",
+   "typ": "churn"
+  }
+ ],
+ "meta": {
+  "demo": true,
+  "erzeugt": "2026-10-27",
+  "heute": "2026-10-27",
+  "hinweis": "Demo-Daten. Alle Firmen fiktiv, Domains .example. Gremien und Formate echt. Keine Person ist enthalten.",
+  "index_formel": "40 x Breite (Formate/5) + 40 x Haeufigkeit (Instanzen/8, aelter als 6 Monate halb) + 20 x Tiefe (Gremium 0.5, Vorsitz 1.0, Speaker 0.5), 12 Monate rollierend",
+  "seed": 20261027
+ },
+ "mitgliedschaften": [
+  {
+   "bis": null,
+   "firma": "f01",
+   "gremium": "g03",
+   "rolle": "vorsitz",
+   "seit": "2026-02"
+  },
+  {
+   "bis": null,
+   "firma": "f01",
+   "gremium": "g06",
+   "rolle": "mitglied",
+   "seit": "2025-08"
+  },
+  {
+   "bis": null,
+   "firma": "f01",
+   "gremium": "g08",
+   "rolle": "mitglied",
+   "seit": "2024-04"
+  },
+  {
+   "bis": null,
+   "firma": "f01",
+   "gremium": "g09",
+   "rolle": "mitglied",
+   "seit": "2024-01"
+  },
+  {
+   "bis": null,
+   "firma": "f02",
+   "gremium": "g11",
+   "rolle": "mitglied",
+   "seit": "2024-08"
+  },
+  {
+   "bis": null,
+   "firma": "f05",
+   "gremium": "g07",
+   "rolle": "mitglied",
+   "seit": "2025-01"
+  },
+  {
+   "bis": null,
+   "firma": "f06",
+   "gremium": "c02",
+   "rolle": "vorsitz",
+   "seit": "2026-01"
+  },
+  {
+   "bis": null,
+   "firma": "f06",
+   "gremium": "g05",
+   "rolle": "mitglied",
+   "seit": "2024-12"
+  },
+  {
+   "bis": null,
+   "firma": "f06",
+   "gremium": "g13",
+   "rolle": "mitglied",
+   "seit": "2024-01"
+  },
+  {
+   "bis": null,
+   "firma": "f07",
+   "gremium": "g02",
+   "rolle": "mitglied",
+   "seit": "2024-07"
+  },
+  {
+   "bis": null,
+   "firma": "f07",
+   "gremium": "g07",
+   "rolle": "mitglied",
+   "seit": "2024-10"
+  },
+  {
+   "bis": null,
+   "firma": "f08",
+   "gremium": "c03",
+   "rolle": "mitglied",
+   "seit": "2025-06"
+  },
+  {
+   "bis": null,
+   "firma": "f08",
+   "gremium": "g05",
+   "rolle": "vorsitz",
+   "seit": "2024-10"
+  },
+  {
+   "bis": null,
+   "firma": "f08",
+   "gremium": "g07",
+   "rolle": "mitglied",
+   "seit": "2026-01"
+  },
+  {
+   "bis": null,
+   "firma": "f09",
+   "gremium": "g15",
+   "rolle": "mitglied",
+   "seit": "2025-08"
+  },
+  {
+   "bis": null,
+   "firma": "f10",
+   "gremium": "g14",
+   "rolle": "mitglied",
+   "seit": "2025-09"
+  },
+  {
+   "bis": null,
+   "firma": "f11",
+   "gremium": "g12",
+   "rolle": "mitglied",
+   "seit": "2024-08"
+  },
+  {
+   "bis": null,
+   "firma": "f13",
+   "gremium": "g01",
+   "rolle": "vorsitz",
+   "seit": "2026-03"
+  },
+  {
+   "bis": null,
+   "firma": "f13",
+   "gremium": "g03",
+   "rolle": "mitglied",
+   "seit": "2025-09"
+  },
+  {
+   "bis": null,
+   "firma": "f13",
+   "gremium": "g13",
+   "rolle": "mitglied",
+   "seit": "2024-01"
+  },
+  {
+   "bis": null,
+   "firma": "f14",
+   "gremium": "g10",
+   "rolle": "mitglied",
+   "seit": "2025-06"
+  },
+  {
+   "bis": null,
+   "firma": "f15",
+   "gremium": "g11",
+   "rolle": "vorsitz",
+   "seit": "2025-10"
+  },
+  {
+   "bis": null,
+   "firma": "f15",
+   "gremium": "g12",
+   "rolle": "mitglied",
+   "seit": "2025-10"
+  },
+  {
+   "bis": null,
+   "firma": "f16",
+   "gremium": "g09",
+   "rolle": "mitglied",
+   "seit": "2026-03"
+  },
+  {
+   "bis": null,
+   "firma": "f18",
+   "gremium": "g15",
+   "rolle": "vorsitz",
+   "seit": "2025-09"
+  },
+  {
+   "bis": null,
+   "firma": "f19",
+   "gremium": "c03",
+   "rolle": "vorsitz",
+   "seit": "2024-12"
+  },
+  {
+   "bis": null,
+   "firma": "f20",
+   "gremium": "g10",
+   "rolle": "vorsitz",
+   "seit": "2024-08"
+  },
+  {
+   "bis": null,
+   "firma": "f21",
+   "gremium": "c01",
+   "rolle": "mitglied",
+   "seit": "2024-06"
+  },
+  {
+   "bis": null,
+   "firma": "f21",
+   "gremium": "g05",
+   "rolle": "mitglied",
+   "seit": "2024-08"
+  },
+  {
+   "bis": null,
+   "firma": "f21",
+   "gremium": "g13",
+   "rolle": "vorsitz",
+   "seit": "2024-08"
+  },
+  {
+   "bis": null,
+   "firma": "f23",
+   "gremium": "g02",
+   "rolle": "vorsitz",
+   "seit": "2025-09"
+  },
+  {
+   "bis": null,
+   "firma": "f24",
+   "gremium": "g03",
+   "rolle": "mitglied",
+   "seit": "2026-01"
+  },
+  {
+   "bis": null,
+   "firma": "f26",
+   "gremium": "c02",
+   "rolle": "mitglied",
+   "seit": "2025-05"
+  },
+  {
+   "bis": null,
+   "firma": "f26",
+   "gremium": "g05",
+   "rolle": "mitglied",
+   "seit": "2025-05"
+  },
+  {
+   "bis": null,
+   "firma": "f26",
+   "gremium": "g13",
+   "rolle": "mitglied",
+   "seit": "2024-11"
+  },
+  {
+   "bis": null,
+   "firma": "f27",
+   "gremium": "g14",
+   "rolle": "vorsitz",
+   "seit": "2025-02"
+  },
+  {
+   "bis": "2025-06",
+   "firma": "f28",
+   "gremium": "g10",
+   "rolle": "mitglied",
+   "seit": "2024-04"
+  },
+  {
+   "bis": null,
+   "firma": "f29",
+   "gremium": "g01",
+   "rolle": "mitglied",
+   "seit": "2024-11"
+  },
+  {
+   "bis": null,
+   "firma": "f29",
+   "gremium": "g03",
+   "rolle": "mitglied",
+   "seit": "2025-05"
+  },
+  {
+   "bis": null,
+   "firma": "f29",
+   "gremium": "g05",
+   "rolle": "mitglied",
+   "seit": "2024-08"
+  },
+  {
+   "bis": null,
+   "firma": "f29",
+   "gremium": "g13",
+   "rolle": "mitglied",
+   "seit": "2025-03"
+  },
+  {
+   "bis": null,
+   "firma": "f31",
+   "gremium": "g02",
+   "rolle": "mitglied",
+   "seit": "2026-02"
+  },
+  {
+   "bis": null,
+   "firma": "f31",
+   "gremium": "g08",
+   "rolle": "mitglied",
+   "seit": "2024-10"
+  },
+  {
+   "bis": null,
+   "firma": "f31",
+   "gremium": "g11",
+   "rolle": "mitglied",
+   "seit": "2026-05"
+  },
+  {
+   "bis": null,
+   "firma": "f31",
+   "gremium": "g12",
+   "rolle": "mitglied",
+   "seit": "2024-06"
+  },
+  {
+   "bis": null,
+   "firma": "f31",
+   "gremium": "g15",
+   "rolle": "mitglied",
+   "seit": "2025-08"
+  },
+  {
+   "bis": "2025-09",
+   "firma": "f32",
+   "gremium": "c03",
+   "rolle": "mitglied",
+   "seit": "2024-05"
+  },
+  {
+   "bis": "2025-09",
+   "firma": "f32",
+   "gremium": "g04",
+   "rolle": "mitglied",
+   "seit": "2024-03"
+  },
+  {
+   "bis": null,
+   "firma": "f33",
+   "gremium": "g02",
+   "rolle": "mitglied",
+   "seit": "2025-03"
+  },
+  {
+   "bis": null,
+   "firma": "f33",
+   "gremium": "g11",
+   "rolle": "mitglied",
+   "seit": "2024-01"
+  },
+  {
+   "bis": null,
+   "firma": "f34",
+   "gremium": "g03",
+   "rolle": "mitglied",
+   "seit": "2024-11"
+  },
+  {
+   "bis": null,
+   "firma": "f34",
+   "gremium": "g06",
+   "rolle": "vorsitz",
+   "seit": "2024-04"
+  },
+  {
+   "bis": null,
+   "firma": "f34",
+   "gremium": "g12",
+   "rolle": "mitglied",
+   "seit": "2024-04"
+  },
+  {
+   "bis": null,
+   "firma": "f35",
+   "gremium": "g01",
+   "rolle": "mitglied",
+   "seit": "2024-06"
+  },
+  {
+   "bis": null,
+   "firma": "f35",
+   "gremium": "g05",
+   "rolle": "mitglied",
+   "seit": "2026-05"
+  },
+  {
+   "bis": null,
+   "firma": "f37",
+   "gremium": "g08",
+   "rolle": "mitglied",
+   "seit": "2026-05"
+  },
+  {
+   "bis": null,
+   "firma": "f37",
+   "gremium": "g12",
+   "rolle": "mitglied",
+   "seit": "2025-12"
+  },
+  {
+   "bis": null,
+   "firma": "f37",
+   "gremium": "x01",
+   "rolle": "mitglied",
+   "seit": "2024-03"
+  },
+  {
+   "bis": null,
+   "firma": "f38",
+   "gremium": "g12",
+   "rolle": "vorsitz",
+   "seit": "2026-02"
+  },
+  {
+   "bis": "2025-03",
+   "firma": "f39",
+   "gremium": "c02",
+   "rolle": "mitglied",
+   "seit": "2024-02"
+  },
+  {
+   "bis": "2025-03",
+   "firma": "f39",
+   "gremium": "g03",
+   "rolle": "mitglied",
+   "seit": "2025-02"
+  },
+  {
+   "bis": "2025-03",
+   "firma": "f39",
+   "gremium": "g05",
+   "rolle": "mitglied",
+   "seit": "2024-12"
+  },
+  {
+   "bis": null,
+   "firma": "f40",
+   "gremium": "c03",
+   "rolle": "mitglied",
+   "seit": "2026-05"
+  },
+  {
+   "bis": null,
+   "firma": "f40",
+   "gremium": "g07",
+   "rolle": "vorsitz",
+   "seit": "2024-12"
+  },
+  {
+   "bis": null,
+   "firma": "f04",
+   "gremium": "g14",
+   "rolle": "mitglied",
+   "seit": "2026-05"
+  },
+  {
+   "bis": null,
+   "firma": "f04",
+   "gremium": "c04",
+   "rolle": "mitglied",
+   "seit": "2026-06"
+  },
+  {
+   "bis": null,
+   "firma": "f02",
+   "gremium": "g11",
+   "rolle": "mitglied",
+   "seit": "2017-03"
+  }
+ ],
+ "review": [
+  {
+   "grund": "Namensabgleich, Domain fehlt",
+   "import": "i01",
+   "konfidenz": 0.62,
+   "roh": "Elbwerk Digitl GmbH",
+   "vorschlag": "f02"
+  },
+  {
+   "grund": "Alias nicht bekannt, Namensähnlichkeit",
+   "import": "i01",
+   "konfidenz": 0.71,
+   "roh": "Nordlicht Telekommunikation",
+   "vorschlag": "f01"
+  },
+  {
+   "grund": "Kurzname ohne Rechtsform",
+   "import": "i01",
+   "konfidenz": 0.58,
+   "roh": "Alsterbyte",
+   "vorschlag": "f04"
+  },
+  {
+   "grund": "Zwei Firmen in einem Feld",
+   "import": "i01",
+   "konfidenz": 0.66,
+   "roh": "Rheinblick Vermarktung / Agentur",
+   "vorschlag": "f08"
+  },
+  {
+   "grund": "Domain bekannt, Firma ist Lead, nicht Mitglied",
+   "import": "i01",
+   "konfidenz": 0.74,
+   "roh": "kupferdraht.example",
+   "vorschlag": "f03"
+  }
+ ],
+ "teilnahmen": [
+  {
+   "anzahl": 1,
+   "event": "e091",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e061",
+   "firma": "f03",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e061",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e061",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e200",
+   "firma": "f19",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e200",
+   "firma": "f32",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e052",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e044",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e130",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 6,
+   "event": "e003",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e003",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e003",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e003",
+   "firma": "f22",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e003",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 5,
+   "event": "e003",
+   "firma": "f37",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e003",
+   "firma": "f39",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e003",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e110",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e110",
+   "firma": "f31",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e081",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e081",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e081",
+   "firma": "f39",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e139",
+   "firma": "f33",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e149",
+   "firma": "f31",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e120",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e120",
+   "firma": "f37",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e031",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e031",
+   "firma": "f19",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e031",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e031",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e031",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e031",
+   "firma": "f39",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e031",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e082",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e082",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e082",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e082",
+   "firma": "f39",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e062",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e062",
+   "firma": "f39",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e208",
+   "firma": "f17",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e007",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e007",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e007",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e007",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e007",
+   "firma": "f11",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e007",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e101",
+   "firma": "f05",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e101",
+   "firma": "f39",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e101",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e140",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e140",
+   "firma": "f33",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e150",
+   "firma": "f28",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e053",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e159",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e159",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e159",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e159",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 6,
+   "event": "e009",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e009",
+   "firma": "f03",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e009",
+   "firma": "f05",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e009",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e009",
+   "firma": "f22",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e009",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e009",
+   "firma": "f32",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e009",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e009",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e009",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e083",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e083",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e083",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e083",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e083",
+   "firma": "f39",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e019",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e019",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e019",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e019",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e141",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e141",
+   "firma": "f33",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e160",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e160",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e160",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e160",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e033",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e033",
+   "firma": "f05",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e033",
+   "firma": "f23",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e033",
+   "firma": "f31",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e033",
+   "firma": "f33",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e033",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e111",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e111",
+   "firma": "f31",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e102",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e102",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e186",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e193",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e063",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e063",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e063",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 5,
+   "event": "e016",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e016",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e016",
+   "firma": "f18",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e016",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e045",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e131",
+   "firma": "f09",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e121",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e151",
+   "firma": "f31",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e151",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e103",
+   "firma": "f05",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e103",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e103",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e132",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e132",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e092",
+   "firma": "f16",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e092",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e010",
+   "firma": "f09",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e010",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e010",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e010",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e010",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e010",
+   "firma": "f37",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e010",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 6,
+   "event": "e010",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e064",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e161",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e161",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e161",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e161",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e001",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e001",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e001",
+   "firma": "f03",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e001",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e001",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e001",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e001",
+   "firma": "f09",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e001",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e001",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e001",
+   "firma": "f19",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e001",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e001",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 6,
+   "event": "e001",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e001",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e001",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e001",
+   "firma": "f30",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e001",
+   "firma": "f31",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e001",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e001",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 5,
+   "event": "e001",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e112",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e194",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e005",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e005",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e005",
+   "firma": "f05",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e005",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e005",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e005",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e005",
+   "firma": "f18",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e005",
+   "firma": "f22",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e005",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e005",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e005",
+   "firma": "f31",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e005",
+   "firma": "f33",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e005",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 7,
+   "event": "e005",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e152",
+   "firma": "f31",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e152",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e046",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e046",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e122",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e232",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e104",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e187",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e187",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e113",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e162",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e162",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e162",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e162",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e201",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e201",
+   "firma": "f19",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e201",
+   "firma": "f32",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e054",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e054",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e054",
+   "firma": "f33",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e073",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e188",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e170",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e233",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e084",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e084",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e084",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e195",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e074",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e105",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e171",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e202",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e202",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e202",
+   "firma": "f19",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e094",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e094",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e123",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e123",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e023",
+   "firma": "f03",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e023",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e023",
+   "firma": "f07",
+   "rolle": "speaker"
+  },
+  {
+   "anzahl": 2,
+   "event": "e023",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e023",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e023",
+   "firma": "f16",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e023",
+   "firma": "f17",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e023",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e023",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e023",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e023",
+   "firma": "f30",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e023",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e023",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e027",
+   "firma": "f10",
+   "rolle": "speaker"
+  },
+  {
+   "anzahl": 1,
+   "event": "e027",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e027",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e027",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 8,
+   "event": "e027",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e025",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e025",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e025",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e025",
+   "firma": "f18",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e025",
+   "firma": "f22",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 5,
+   "event": "e025",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e025",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e025",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e029",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e029",
+   "firma": "f05",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e029",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e029",
+   "firma": "f15",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e029",
+   "firma": "f22",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e029",
+   "firma": "f23",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e029",
+   "firma": "f33",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 6,
+   "event": "e029",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e239",
+   "firma": "f37",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e163",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e163",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e163",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e163",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e011",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e011",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e011",
+   "firma": "f09",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e011",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e011",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e011",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 8,
+   "event": "e011",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e180",
+   "firma": "f09",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e180",
+   "firma": "f18",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e055",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e055",
+   "firma": "f23",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e055",
+   "firma": "f33",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 6,
+   "event": "e020",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e020",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e020",
+   "firma": "f12",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e020",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e020",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e020",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e047",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e047",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e095",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e095",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e203",
+   "firma": "f19",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e114",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e085",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e085",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e085",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e085",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e142",
+   "firma": "f02",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e056",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e017",
+   "firma": "f12",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e017",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e048",
+   "firma": "f09",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e048",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e048",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e035",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e035",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 5,
+   "event": "e035",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e133",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e012",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e012",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e012",
+   "firma": "f15",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e012",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e012",
+   "firma": "f22",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 6,
+   "event": "e012",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 8,
+   "event": "e012",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e172",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e172",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e153",
+   "firma": "f15",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e153",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e134",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e124",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e196",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e181",
+   "firma": "f09",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e181",
+   "firma": "f18",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e211",
+   "firma": "f36",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e154",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e086",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e086",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e004",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e004",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e004",
+   "firma": "f15",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e004",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e004",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e004",
+   "firma": "f37",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 6,
+   "event": "e004",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e115",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e173",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e173",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e241",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e241",
+   "firma": "f37",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e164",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e164",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e164",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e164",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e144",
+   "firma": "f15",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e135",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e032",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e032",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e032",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e032",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e032",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e032",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e032",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e057",
+   "firma": "f23",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e058",
+   "firma": "f23",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e204",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e204",
+   "firma": "f19",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e036",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e036",
+   "firma": "f18",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e165",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e165",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e125",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e125",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e066",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e066",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e087",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e087",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e013",
+   "firma": "f03",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e013",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e013",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e013",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e013",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e013",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e049",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e049",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e021",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e021",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e021",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e037",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e037",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e088",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e088",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e088",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e088",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e106",
+   "firma": "f05",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e106",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e106",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e106",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e126",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e136",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e117",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e174",
+   "firma": "f04",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e174",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e174",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e034",
+   "firma": "f05",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e034",
+   "firma": "f23",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 5,
+   "event": "e034",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e197",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e183",
+   "firma": "f09",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e183",
+   "firma": "f18",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e067",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e067",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e067",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e067",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e067",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e038",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e038",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e038",
+   "firma": "f15",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e198",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e096",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e096",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e184",
+   "firma": "f18",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e184",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e018",
+   "firma": "f12",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e018",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 9,
+   "event": "e018",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e137",
+   "firma": "f18",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e137",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e118",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e127",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e039",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e039",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e039",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e014",
+   "firma": "f03",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e014",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e014",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e014",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e014",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e014",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e014",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e014",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e059",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e059",
+   "firma": "f23",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e002",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e002",
+   "firma": "f03",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e002",
+   "firma": "f04",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e002",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e002",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e002",
+   "firma": "f12",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e002",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e002",
+   "firma": "f19",
+   "rolle": "speaker"
+  },
+  {
+   "anzahl": 1,
+   "event": "e002",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e002",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e002",
+   "firma": "f30",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e002",
+   "firma": "f35",
+   "rolle": "speaker"
+  },
+  {
+   "anzahl": 8,
+   "event": "e002",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e205",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e205",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e089",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e089",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e089",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e190",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e068",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e068",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e068",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e068",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e068",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e006",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e006",
+   "firma": "f04",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e006",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e006",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e006",
+   "firma": "f19",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e006",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e006",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 9,
+   "event": "e006",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e040",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e040",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e040",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e040",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e040",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e128",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e155",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e155",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e155",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e069",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e069",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e069",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e185",
+   "firma": "f09",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e185",
+   "firma": "f18",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e050",
+   "firma": "f18",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e050",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e107",
+   "firma": "f05",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e107",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e107",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e097",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e097",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e041",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e041",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e156",
+   "firma": "f15",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e156",
+   "firma": "f25",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e156",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e156",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e108",
+   "firma": "f05",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e108",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e108",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e108",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e129",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e129",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e070",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e070",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e070",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e051",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e051",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e098",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e042",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e042",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e042",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e042",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e236",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e099",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e099",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e157",
+   "firma": "f25",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e157",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e213",
+   "firma": "f04",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e166",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e166",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e166",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e166",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e199",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e199",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e206",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e206",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e109",
+   "firma": "f05",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e109",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e109",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e175",
+   "firma": "f04",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e175",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 5,
+   "event": "e024",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e024",
+   "firma": "f03",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e024",
+   "firma": "f04",
+   "rolle": "speaker"
+  },
+  {
+   "anzahl": 1,
+   "event": "e024",
+   "firma": "f05",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e024",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e024",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e024",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e024",
+   "firma": "f18",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e024",
+   "firma": "f21",
+   "rolle": "speaker"
+  },
+  {
+   "anzahl": 2,
+   "event": "e024",
+   "firma": "f34",
+   "rolle": "speaker"
+  },
+  {
+   "anzahl": 3,
+   "event": "e028",
+   "firma": "f04",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e028",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e028",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e028",
+   "firma": "f27",
+   "rolle": "speaker"
+  },
+  {
+   "anzahl": 4,
+   "event": "e028",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 6,
+   "event": "e026",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e026",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e026",
+   "firma": "f09",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e026",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e026",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 5,
+   "event": "e026",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e030",
+   "firma": "f23",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 9,
+   "event": "e030",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 6,
+   "event": "e015",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e015",
+   "firma": "f03",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e015",
+   "firma": "f05",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e015",
+   "firma": "f09",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e015",
+   "firma": "f20",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e015",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e060",
+   "firma": "f07",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e043",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e043",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e043",
+   "firma": "f34",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e043",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e100",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e176",
+   "firma": "f04",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e176",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e176",
+   "firma": "f27",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e022",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 4,
+   "event": "e022",
+   "firma": "f10",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 3,
+   "event": "e022",
+   "firma": "f21",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e022",
+   "firma": "f24",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 5,
+   "event": "e022",
+   "firma": "f99",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e090",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e090",
+   "firma": "f08",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e090",
+   "firma": "f26",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e090",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e090",
+   "firma": "f35",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e158",
+   "firma": "f14",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e158",
+   "firma": "f38",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e119",
+   "firma": "f01",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e167",
+   "firma": "f06",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e167",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e167",
+   "firma": "f29",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 2,
+   "event": "e167",
+   "firma": "f40",
+   "rolle": "teilnehmer"
+  },
+  {
+   "anzahl": 1,
+   "event": "e192",
+   "firma": "f13",
+   "rolle": "teilnehmer"
+  }
+ ]
+}

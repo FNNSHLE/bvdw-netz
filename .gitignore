@@ -1,0 +1,10 @@
+.DS_Store
+Agency/
+*.bak
+*.xlsx
+*.xls
+*.csv
+aggregat/
+dist/
+qs/
+__pycache__/

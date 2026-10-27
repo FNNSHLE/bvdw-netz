@@ -1,0 +1,39 @@
+name: Datenquelle
+description: Eine neue Quelle für Anwesenheiten anschließen
+title: "[Quelle] "
+labels: ["typ:datenquelle"]
+body:
+  - type: input
+    id: quelle
+    attributes:
+      label: Quelle und Owner
+      description: "Zum Beispiel: Teams-Anwesenheitsbericht WG Search, Betreuerin"
+    validations: { required: true }
+  - type: textarea
+    id: spalten
+    attributes:
+      label: Spaltenköpfe
+      description: Nur die Köpfe. Keine Beispielzeile mit Personen.
+    validations: { required: true }
+  - type: dropdown
+    id: frequenz
+    attributes:
+      label: Häufigkeit
+      options: ["je Event", "monatlich", "quartalsweise", "einmalig (Backfill)"]
+  - type: dropdown
+    id: personen
+    attributes:
+      label: Personenbezug in der Quelle
+      options: ["Ja (Name oder E-Mail)", "Nein (schon Firmen-Ebene)"]
+  - type: textarea
+    id: mapping
+    attributes:
+      label: Mapping-Vorschlag
+      description: Welche Spalte wird Domain, welche Firma, welche Rolle. Was wird nicht gelesen.
+  - type: checkboxes
+    id: test
+    attributes:
+      label: Status
+      options:
+        - label: Testimport mit einer alten Datei erledigt
+        - label: Match-Quote notiert

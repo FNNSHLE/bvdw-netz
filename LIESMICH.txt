@@ -1,0 +1,38 @@
+BVDW NETZ (Click-Dummy)
+Wo ist welches Unternehmen im BVDW aktiv? Gremien, Formate, Events als Netz, gespeist aus
+Check-in-Listen und Teams-Anwesenheiten, ohne eine einzige Person zu speichern.
+
+Das ist ein Click-Dummy. Alle Firmen und Zahlen sind erfunden, die Namen der Gremien und
+Formate sind echt. Nichts wird hochgeladen, nichts wird gelesen, nichts rechnet auf echten Daten.
+
+Online: https://fnnshle.github.io/bvdw-netz/
+
+STARTEN
+Mac:      Doppelklick auf "Start (Mac).command"
+Windows:  Doppelklick auf "Start (Windows).bat"
+Oder einfach app/index.html im Browser oeffnen. Internet ist nicht noetig.
+
+ERSTER START AUF DEM MAC
+macOS blockiert Dateien aus dem Internet beim ersten Mal ("nicht verifizierter Entwickler").
+Dann: Rechtsklick auf "Start (Mac).command", Oeffnen waehlen und bestaetigen.
+Bei neueren macOS-Versionen: Systemeinstellungen, Datenschutz & Sicherheit, ganz unten
+"Trotzdem oeffnen". Das ist nur einmal noetig.
+
+WAS DER DUMMY ZEIGT
+Start:        Reichweite der Mitglieder, weisse Flecken je Branche, Suche nach Firma
+Firma:        Netz der Firma (Gremien blau, Formate orange), Steckbrief, Aktivitaetsindex,
+              Zeitstrahl, Hinweise aus Regeln, drei vorbereitete Fragen
+Gremium:      Netz eines Gremiums, welche Firmen kommen, wer fehlt
+Import:       die Schleuse: Datei rein, Firmen raus, Personen verworfen, Pruefliste
+Datenschutz:  was gespeichert wird, was nie, der Datenfluss
+
+SCHRIFT
+Die Seite nutzt PP Telegraf, wenn die Schrift auf dem Rechner installiert ist (BVDW-Rechner).
+Sonst Arial und Arial Black, wie im Brand Book als Ersatz vorgesehen. Die Fusszeile zeigt,
+welche Schrift gerade aktiv ist.
+
+ORDNER
+app/         der Dummy (HTML, CSS, JS, d3 lokal)
+daten/       Demo-Daten (demo.json, demo.js) und die echten Listen der Gremien und Formate
+werkzeuge/   Skripte: Demo-Daten erzeugen und pruefen, Screenshots, Kontrast
+docs/        Produktkonzept (PRD), Datenschutz-Schleuse, Prozesse, Entscheidungen (ADR), Pitch

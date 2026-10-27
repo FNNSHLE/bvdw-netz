@@ -1,0 +1,29 @@
+name: QS
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Keine Gedankenstriche in Copy
+        run: |
+          if grep -rn --exclude-dir=lib --exclude-dir=.git -e $'–' -e $'—' app daten docs README.md LIESMICH.txt; then
+            echo "Gedankenstrich gefunden"; exit 1; fi
+      - name: JSON gültig
+        run: for f in daten/*.json; do python3 -m json.tool "$f" > /dev/null; done
+      - name: Demo-Daten reproduzierbar
+        run: |
+          python3 werkzeuge/demo_daten.py
+          git diff --exit-code daten/
+      - name: Demo-Daten ohne Personen und ohne echte Firmen
+        run: python3 werkzeuge/pruefe_demo.py
+      - name: Keine Versalien, keine Unterstreichung
+        run: |
+          if grep -n "uppercase\|text-decoration:underline" app/app.css; then exit 1; fi
+      - name: Keine externen Requests im Dummy
+        run: |
+          if grep -n 'src="http\|href="http.*\.css\|@import' app/index.html app/app.css; then echo "externer Request"; exit 1; fi

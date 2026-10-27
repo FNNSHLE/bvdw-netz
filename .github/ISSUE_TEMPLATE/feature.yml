@@ -1,0 +1,34 @@
+name: Funktion
+description: Eine Funktion oder Verbesserung vorschlagen
+title: "[Funktion] "
+labels: ["typ:feature"]
+body:
+  - type: dropdown
+    id: persona
+    attributes:
+      label: Für wen
+      options: ["Frank (Membership Services)", "Unit Lead (Gremienbetreuung)", "Geschäftsführung", "Events (Check-in)", "Fynn (Product Owner)"]
+    validations: { required: true }
+  - type: textarea
+    id: job
+    attributes:
+      label: Job-to-be-done
+      description: "Wenn ich …, will ich …, damit …"
+    validations: { required: true }
+  - type: textarea
+    id: akzeptanz
+    attributes:
+      label: Akzeptanzkriterien
+      description: Woran erkennen wir, dass es fertig ist. Eine Zeile je Kriterium.
+  - type: dropdown
+    id: datenschutz
+    attributes:
+      label: Berührt Personenzeilen
+      description: Fasst die Funktion an irgendeiner Stelle Zeilen mit Name oder E-Mail an
+      options: ["Nein", "Ja, nur im Importschritt", "Ja, anders (dann Label braucht:dsb)"]
+    validations: { required: true }
+  - type: dropdown
+    id: phase
+    attributes:
+      label: Phase
+      options: ["0 Prozess", "1 Schleuse", "2 Netz-UI", "3 KI", "Dummy"]

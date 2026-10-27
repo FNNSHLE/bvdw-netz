@@ -1,0 +1,19 @@
+name: Fehler
+description: Etwas funktioniert nicht
+title: "[Fehler] "
+labels: ["typ:bug"]
+body:
+  - type: textarea
+    id: was
+    attributes:
+      label: Was passiert
+    validations: { required: true }
+  - type: textarea
+    id: erwartet
+    attributes:
+      label: Was erwartet wurde
+  - type: input
+    id: wo
+    attributes:
+      label: Wo (Route, Browser)
+      description: "Zum Beispiel: #/firma/f01 in Chrome 130 auf dem Mac"

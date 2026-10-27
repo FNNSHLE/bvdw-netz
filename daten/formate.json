@@ -1,0 +1,22 @@
+{
+ "quelle": "bvdw.org und Formatnotizen im Vault ~/Base/Formate (Stand 2026-10)",
+ "stand": "2026-10-27",
+ "hinweis": "Formatnamen echt, Termine und Teilnahmen im Demo-Datensatz erfunden. Auswahl von rund 40 Formaten auf 15 gekuerzt.",
+ "formate": [
+  {"id": "m01", "name": "BVDW Convention", "kurz": "Convention", "typ": "konferenz", "rhythmus": "jaehrlich"},
+  {"id": "m02", "name": "BVDW Neujahrsempfang", "kurz": "Neujahrsempfang", "typ": "konferenz", "rhythmus": "jaehrlich"},
+  {"id": "m03", "name": "Mitgliederversammlung und Sommerfest", "kurz": "MV und Sommerfest", "typ": "konferenz", "rhythmus": "jaehrlich"},
+  {"id": "m04", "name": "BVDW Future Days", "kurz": "Future Days", "typ": "online", "rhythmus": "jaehrlich"},
+  {"id": "m05", "name": "KI Meet-Up", "kurz": "KI Meet-Up", "typ": "meetup", "rhythmus": "quartal", "gremium": "g12"},
+  {"id": "m06", "name": "Digital Audio Meet-Up", "kurz": "Audio Meet-Up", "typ": "meetup", "rhythmus": "halbjahr", "gremium": "g04"},
+  {"id": "m07", "name": "Retail Media Festival", "kurz": "Retail Media Festival", "typ": "meetup", "rhythmus": "halbjahr", "gremium": "c04"},
+  {"id": "m08", "name": "BVDW Masterclasses auf der DMEXCO", "kurz": "Masterclasses", "typ": "dmexco", "rhythmus": "jaehrlich"},
+  {"id": "m09", "name": "Learning Journeys auf der DMEXCO", "kurz": "Learning Journeys", "typ": "dmexco", "rhythmus": "jaehrlich"},
+  {"id": "m10", "name": "Retail & Commerce Media Summit", "kurz": "Retail & Commerce Media Summit", "typ": "dmexco", "rhythmus": "jaehrlich", "gremium": "g14"},
+  {"id": "m11", "name": "Creativity Summit", "kurz": "Creativity Summit", "typ": "dmexco", "rhythmus": "jaehrlich", "gremium": "g11"},
+  {"id": "m12", "name": "Online Ad Summit", "kurz": "Online Ad Summit", "typ": "konferenz", "rhythmus": "jaehrlich", "gremium": "c03"},
+  {"id": "m13", "name": "Deutscher Digital Award", "kurz": "Deutscher Digital Award", "typ": "award", "rhythmus": "jaehrlich", "gremium": "g11"},
+  {"id": "m14", "name": "DATA matters", "kurz": "DATA matters", "typ": "konferenz", "rhythmus": "jaehrlich", "gremium": "g09"},
+  {"id": "m15", "name": "AI Office Hours", "kurz": "AI Office Hours", "typ": "online", "rhythmus": "monatlich", "gremium": "g12"}
+ ]
+}

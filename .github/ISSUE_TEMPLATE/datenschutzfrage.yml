@@ -1,0 +1,31 @@
+name: Datenschutzfrage
+description: Eine Frage, die der Datenschutzbeauftragte entscheiden muss
+title: "[Datenschutz] "
+labels: ["typ:datenschutz", "braucht:dsb"]
+body:
+  - type: textarea
+    id: sachverhalt
+    attributes:
+      label: Sachverhalt
+      description: Was soll passieren, mit welchen Daten, wo.
+    validations: { required: true }
+  - type: checkboxes
+    id: kategorien
+    attributes:
+      label: Betroffene Datenkategorien im Importschritt
+      options:
+        - label: Name
+        - label: E-Mail (nur Domain bleibt)
+        - label: Firma
+        - label: Rolle oder Funktion
+        - label: Zeiten (Beitritt, Dauer)
+        - label: Keine, nur Firmen-Aggregate
+  - type: textarea
+    id: vorschlag
+    attributes:
+      label: Unser Vorschlag
+  - type: textarea
+    id: entscheidung
+    attributes:
+      label: Entscheidung des DSB (mit Datum)
+      description: Wird nachgetragen. Danach ADR anlegen oder ergänzen.
