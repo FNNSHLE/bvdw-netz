@@ -1,9 +1,9 @@
 #!/bin/bash
-# screenshots.sh: rendert alle Routen headless mit Chrome (Desktop und Mobil) nach docs/screenshots/ und meldet Konsolenfehler.
+# screenshots.sh: rendert alle Routen (ohne Bewegung, still=1) headless mit Chrome (Desktop und Mobil) nach docs/screenshots/ und meldet Konsolenfehler.
 cd "$(dirname "$0")/.."
 CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
 [ -x "$CHROME" ] || { echo "Chrome nicht gefunden"; exit 1; }
-BASIS="file://$PWD/app/index.html"
+BASIS="file://$PWD/app/index.html?still=1"
 ROUTEN=("01_start:#/" "02_firma:#/firma/f01" "03_firma_churn:#/firma/f02" "04_gremium:#/gremium/g12" "05_import:#/import" "06_datenschutz:#/datenschutz")
 mkdir -p docs/screenshots qs
 LOG=$(mktemp)
